@@ -1,0 +1,15 @@
+    .container {
+    border: 0.2em solid greenyellow;
+}
+
+.first {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.second {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* }deuxième solution mettre chaque element input label dans des div separées +text-align center pour le container */
